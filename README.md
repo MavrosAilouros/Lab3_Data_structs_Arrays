@@ -39,21 +39,21 @@ sudo apt install build-essential
 ###  Exercise 1 – Diagonal Sum
 
 ```bash
-gcc Ejercicio1.c -o ejercicio1
+gcc -Wall Ejercicio1.c -o ej1
 ./ejercicio1
 ```
 
 ###  Exercise 2 – Maximum Value
 
 ```bash
-gcc Ejercicio2.c -o ejercicio2
+gcc -Wall Ejercicio2.c -o ej2
 ./ejercicio2
 ```
 
 ### Exercise 3 – Longest Diagonal of 1s
 
 ```bash
-gcc Ejercicio3.c -o ejercicio3
+gcc -Wall Ejercicio3.c -o ej3
 ./ejercicio3
 ```
 
