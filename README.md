@@ -18,7 +18,7 @@ This repository contains the solutions to **Lab 3** of the course **IE-0117**, i
 └── (other lab files)  # Source code, LaTeX report, etc.
 ```
 
-## ⚙Requirements
+## Requirements
 
 Make sure you have the GCC compiler installed.
 
